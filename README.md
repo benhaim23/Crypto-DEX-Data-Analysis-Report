@@ -17,8 +17,8 @@ The project involves the following datasets, with each dataset containing fields
 - Binance Smart Chain (BSC) Trading Data
 - Solana (SOL) Trading Data
 - Polygon (MATIC) Trading Data
-- Arbitrum Trading Data
-- Optimism Trading Data
+- Arbitrum (ARB) Trading Data
+- Optimism (OP) Trading Data
 
 ## Data Sources
 Data for this project is sourced from various blockchain APIs and third-party DEX analytics services. The raw data is processed and stored in CSV format for analysis.
